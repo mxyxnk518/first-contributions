@@ -10,6 +10,7 @@
 - Batman!
 -[Suprith Varma Brahmarauthu] (https://github.com/Suprithvarma1)
 - [Samuel Kiragu](https://gitbhub.com/SamuelKiragu)
+- Mayank Sharma(https://github.com/mxyxnk518)
 - [Muse](https://github.com/museredi)
 - [Aswin Pratapsingh] (https://github.com/CodexEZ)
 - [Munir Abdullahi] (https://github.com/iamaamunir)
